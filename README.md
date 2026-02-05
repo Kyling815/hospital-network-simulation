@@ -11,14 +11,14 @@ The network is segmented by departments using VLANs and supports secure, scalabl
 - Wireshark (traffic analysis)
 
 ## Project Structure
-- packet-tracer/ # Cisco Packet Tracer simulation file
-- report/ # Project report (PDF)
+- BTL2_demo.spkt/ # Cisco Packet Tracer simulation file
+- MMT_ASSIGNMENT_2/ # Project report (PDF)
 
 
 ## How to Open the Simulation
 1. Install **Cisco Packet Tracer**
 2. Open the file:
-packet-tracer/BTL2.spkt
+BTL2_demo.spkt
 
 
 ## Key Features
