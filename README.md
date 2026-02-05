@@ -11,8 +11,8 @@ The network is segmented by departments using VLANs and supports secure, scalabl
 - Wireshark (traffic analysis)
 
 ## Project Structure
-packet-tracer/ # Cisco Packet Tracer simulation file
-report/ # Project report (PDF)
+-packet-tracer/ # Cisco Packet Tracer simulation file
+-report/ # Project report (PDF)
 
 
 ## How to Open the Simulation
